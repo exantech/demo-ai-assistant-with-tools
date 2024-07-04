@@ -1,0 +1,5 @@
+version: "v1"
+name: CMC Price
+description: Tool for getting cryptocurrency prices from CMC
+contact_email: hello@exan.tech
+legal_info_url: https://exan.tech/
